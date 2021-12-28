@@ -2,7 +2,7 @@
 - 👀 I’m interested in maths and computer science and data science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on multiple projects
-- 📫 reach me via Linkedin : linkedin.com/in/aessabbeur20/
+- 📫 reach me via e-mail : abdessalam.essabere@gmail.com
 
 <!---
 
